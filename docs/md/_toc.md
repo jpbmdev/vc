@@ -7,6 +7,7 @@
 > > [Software](/docs/workshops/imaging)
 > > [Hardware](/docs/workshops/hardware)
 > 
+> [Imaging & Video - Software](/docs/workshops/imaging-software)
 > [Rendering](/docs/workshops/rendering)
 > [Computer Graphics](/docs/workshops/cg)
 > [HCI](/docs/workshops/hci)
